@@ -8,5 +8,5 @@ type User struct {
 
 // Login login
 func (u User) Login() (string, error) {
-	return "dalong v2", nil
+	return "dalong v3", nil
 }
